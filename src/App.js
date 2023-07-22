@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Store from './features/Store/Store';
+import Main from './features/Main';
 
 /**
  * @return App main page
@@ -11,8 +11,7 @@ function App() {
    */
   return (
     <div className="App">
-      <header className="header">My react app</header>
-      <Store />
+      <Main />
     </div>
   );
 }

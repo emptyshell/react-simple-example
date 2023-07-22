@@ -7,7 +7,6 @@ import './product.css';
  * @return Product definition
  */
 function Product({
-  id,
   title,
   description,
   price,
