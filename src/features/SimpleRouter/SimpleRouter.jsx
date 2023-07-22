@@ -1,5 +1,5 @@
 import React from 'react';
-import Authors from '../../components/Authors/Authors';
+import Authors from '../../features/Authors/Authors';
 import Store from '../../features/Store/Store';
 /**
  * My component
